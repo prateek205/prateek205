@@ -2,8 +2,9 @@
 <h3 align="center">MERN Stack Developer | Passionate Coder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&width=435&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Clean+%26+Scalable+Code+Lover" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
+
 
 ---
 
@@ -15,12 +16,6 @@
 - 📫 How to reach me: **prateekbahad70@gmail.com**
 
 ---
-
-### 💻 Coding in Action:
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
 
 ### 🛠️ Tech Stack
 
@@ -38,3 +33,15 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek205&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prateek205&theme=react-dark)
+
+
