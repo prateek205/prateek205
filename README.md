@@ -8,12 +8,11 @@
 ---
 
 ### 💫 About Me:
-- 🌱 I’m currently learning **Next.js and TypeScript**
+- 🌱 I’m currently learning **Next.js**
 - 💼 I’m building MERN Stack projects with authentication, e-commerce, and admin control
 - 💬 Ask me about **React, Node.js, MongoDB, Express**
 - 🧑‍💻 Portfolio: [Visit Portfolio](https://mernportfolio-prateek205-prateek205s-projects.vercel.app)
 - 📫 How to reach me: **prateekbahad70@gmail.com**
-- ⚡ Fun fact: I can debug faster with music on 🎧
 
 ---
 
